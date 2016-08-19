@@ -1,7 +1,7 @@
 @font-face {
  font-family: 'NanumSquare';
- src: url(//cdn.rawgit.com/puts-blog/NanumSquare/master/NanumSquare.eot);
- src: url(//cdn.rawgit.com/puts-blog/NanumSquare/master/NanumSquare.eot?#iefix) format('embedded-opentype'),
-      url(//cdn.rawgit.com/puts-blog/NanumSquare/master/NanumSquare.woff) format('woff'),
-      url(//cdn.rawgit.com/puts-blog/NanumSquare/master/NanumSquare.ttf) format('truetype');
+ src: url(NanumSquare.eot);
+ src: url(NanumSquare.eot?#iefix) format('embedded-opentype'),
+      url(NanumSquare.woff) format('woff'),
+      url(NanumSquare.ttf) format('truetype');
 }
